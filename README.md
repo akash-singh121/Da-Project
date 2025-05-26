@@ -19,7 +19,7 @@ A Python-based project analyzing global weather trends using Jupyter Notebook. T
 ### Installation
 
 ```bash
-git clone https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle.git
+git clone https://github.com/akash-singh121/Da-Project.git
 cd Weather-Data-Analysis-kaggle
 pip install -r requirements.txt
 ```
@@ -78,10 +78,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 * Open-source Python libraries used for data analysis and plotting
 Some of the outputs of the project 
 # Variable Correlation#
-![image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/images/Correlation.png)
+![image](https://github.com/akash-singh121/Da-Project/blob/main/images/Correlation.png)
 ## Overall Statistics#
-![image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/images/Overall%20Stastics.png)
+![image](https://github.com/akash-singh121/Da-Project/blob/main/images/Overall%20Stastics.png)
 ## wind speed vs temp by city
-![image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/images/Wind%20Speed%20Vs%20Temp%20by%20City.png)
+![image](https://github.com/akash-singh121/Da-Project/blob/main/images/Wind%20Speed%20Vs%20Temp%20by%20City.png)
 ## Total Precipitation by city 
-![image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/images/Total%20Precipitation%20by%20city.png)
+![image](https://github.com/akash-singh121/Da-Project/blob/main/images/Total%20Precipitation%20by%20city.png)
