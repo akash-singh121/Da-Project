@@ -35,7 +35,7 @@ The project combines data cleaning, exploratory data analysis, and interactive v
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle.git
+   git clone https://github.com/Abeer007-coder/PROJECT-DA-Weather-Data-Analysis-.git
    cd Weather-Data-Analysis-kaggle
    ```
 
@@ -206,7 +206,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Rudra** - [GitHub Profile](https://github.com/Rudra15102004)  And Teammates - Vaibhav Pandey ,Abhishek Gupta and Naveen Kumar
+**Abeer** - [GitHub Profile](https://github.com/Abeer007-coder/PROJECT-DA-Weather-Data-Analysis-#)  And Teammates - Priyanshu Mohan ,Anurag Kashyap and Vansh Sharma
 
 ## 🙏 Acknowledgments
 
